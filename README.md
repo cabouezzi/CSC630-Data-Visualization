@@ -1,2 +1,2 @@
 # CSC630 Portfolio
-- [Homework one](PartToWhole.jpeg)
+- [Assignment One](PartToWhole.jpeg)
