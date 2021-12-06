@@ -1,2 +1,2 @@
-# CSC630-Portfolio
+# Part To Whole Comparison
 ![](PartToWhole.jpeg)
