@@ -1,4 +1,5 @@
 # CSC630 Portfolio
-- Assignment One: [Part-To-Whole Comparison](PartToWhole.jpeg)
-- Assignment Two: [Comparison Pictogram](Pictogram.png)
-- Assignment Three: [Magical Comparison](Magical.png)
+- [Part-To-Whole Comparison](PartToWhole.jpeg)
+- [Comparison Pictogram](Pictogram.png)
+- [Magical Comparison](Magical.png)
+- [Slope Comparison](LebanonTrade.png)
