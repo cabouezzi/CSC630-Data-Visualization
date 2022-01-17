@@ -4,3 +4,4 @@
 - [Magical Comparison](Magical.png)
 - [Slope Comparison](LebanonTrade.png)
 - [Physical Distribution](HockeyFights.png)
+- [Animal Distribution](VermontAnimalCollisions.png)
