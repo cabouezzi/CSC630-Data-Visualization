@@ -7,4 +7,4 @@
 - [Physical Distribution](HockeyFights.png)
 - [Animal Distribution](VermontAnimalCollisions.png)
 ### Task 4
-- Geographical visualization. (I did my best.) [Download](https://github.com/cabouezzi22/CSC630-Portfolio/raw/main/BostonCommute.zip)
+- Geographical visualization. (I did my best) [Download MacOS App](https://github.com/cabouezzi22/CSC630-Portfolio/raw/main/BostonCommute.zip)
