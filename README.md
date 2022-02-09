@@ -1,7 +1,9 @@
 # CSC630 Portfolio
+### 30-Day Challenge
 - [Part-To-Whole Comparison](PartToWhole.jpeg)
 - [Comparison Pictogram](Pictogram.png)
 - [Magical Comparison](Magical.png)
 - [Slope Comparison](LebanonTrade.png)
 - [Physical Distribution](HockeyFights.png)
 - [Animal Distribution](VermontAnimalCollisions.png)
+### Task 4
