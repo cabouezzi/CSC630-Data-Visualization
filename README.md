@@ -2,6 +2,7 @@
 ### 30-Day Challenge
 - [Part-To-Whole Comparison](PartToWhole.jpeg)
 - [Pictogram Comparison](Pictogram.png)
+- Historical Comparison
 - [Magical Comparison](Magical.png)
 - [Slope Comparison](LebanonTrade.png)
 - Experimental Comparison
@@ -10,6 +11,7 @@
 - [Statistics Distribution](NBAStats.pdf)
 - Abstract Distribution
 - Circular Distribution
+- Strips Distribution
 - Correlation Relationship
 - Space Relationship
 - Multivariate Relationship
