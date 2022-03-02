@@ -5,13 +5,13 @@
 - Historical Comparison
 - [Magical Comparison](Magical.png)
 - [Slope Comparison](LebanonTrade.png)
-- Experimental Comparison
+- [Experimental Comparison](NuclearTests.png)
 - [Physical Distribution](HockeyFights.png)
 - [Animal Distribution](VermontAnimalCollisions.png)
 - [Statistics Distribution](NBAStats.pdf)
 - Abstract Distribution
 - Circular Distribution
-- Strips Distribution
+- [Strips Distribution](Strips.png)
 - Correlation Relationship
 - Space Relationship
 - Multivariate Relationship
