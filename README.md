@@ -10,7 +10,7 @@
 - [Animal Distribution](VermontAnimalCollisions.png)
 - [Statistics Distribution](NBAStats.pdf)
 - Abstract Distribution
-- Circular Distribution
+- [Circular Distribution](SunflowerSpiral.png)
 - [Strips Distribution](Strips.png)
 - Correlation Relationship
 - Space Relationship
