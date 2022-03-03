@@ -3,19 +3,15 @@
 ### Direct Links
 - [Part-To-Whole Comparison](PartToWhole.jpeg)
 - [Pictogram Comparison](Pictogram.png)
-- Historical Comparison
 - [Magical Comparison](Magical.png)
 - [Slope Comparison](LebanonTrade.png)
 - [Experimental Comparison](NuclearTests.png)
 - [Physical Distribution](HockeyFights.png)
 - [Animal Distribution](VermontAnimalCollisions.png)
 - [Statistics Distribution](NBAStats.pdf)
-- Abstract Distribution
 - [Circular Distribution](SunflowerSpiral.png)
 - [Strips Distribution](Strips.png)
 - [Correlation Relationship](MoreCarStuff.png)
-- Space Relationship
-- Multivariate Relationship
 ## Tasks
 ### Task 0
 N/A (Excused Absence)
