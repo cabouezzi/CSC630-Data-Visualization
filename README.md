@@ -1,4 +1,6 @@
 # CSC630 Portfolio
+## Final
+Almost...
 ## 30-Day Challenge
 ### Direct Links
 - [Part-To-Whole Comparison](PartToWhole.jpeg)
