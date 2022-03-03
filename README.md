@@ -1,5 +1,5 @@
 # CSC630 Portfolio
-## Final
+## Final Project
 Almost...
 ## 30-Day Challenge
 ### Direct Links
