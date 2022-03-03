@@ -16,6 +16,9 @@
 - [Correlation Relationship](MoreCarStuff.png)
 - Space Relationship
 - Multivariate Relationship
+### Task 1 (Group)
+#### Partner: Hadrian
+[Link](https://hadrian-reppas.github.io/Addison/index.html)
 ### Task 4
 - Geographical visualization. (I did my best) [Download MacOS App](https://github.com/cabouezzi22/CSC630-Portfolio/raw/main/BostonCommute.zip)
 
