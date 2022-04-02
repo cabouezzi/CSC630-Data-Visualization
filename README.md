@@ -24,5 +24,5 @@ Partner: Darian. [Link](https://docs.google.com/document/d/137JjFOPwSv0grIksd3PB
 ### Task 3
 Partner: Nathan. [Link](https://github.com/CSC630/group-task-3/tree/main/Group%20task%203)
 ### Task 4
-Individual. (I recognize the areas for improvement, but I did my best) [MacOS Download](https://github.com/cabouezzi22/CSC630-Portfolio/raw/main/BostonCommute.zip)
+Individual. (I did my best) [MacOS Download](https://github.com/cabouezzi22/CSC630-Portfolio/raw/main/BostonCommute.zip)
 
