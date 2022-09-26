@@ -1,6 +1,6 @@
 # CSC630 Portfolio Links
 ## Final Project
-[Interactive Visualization](https://github.com/cabouezzi/Interactive-Weather.git).
+[Interactive Visualization](https://github.com/cabouezzi/Interactive-Weather.git)
 ## Tasks
 ### Task 1 (Group)
 Partner: Hadrian. [Link](https://hadrian-reppas.github.io/CSC630/Addison/index.html)
