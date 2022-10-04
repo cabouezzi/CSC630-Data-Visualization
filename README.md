@@ -1,4 +1,4 @@
-# CSC630 Portfolio Links
+# Data Viz Portfolio Links
 ## Final Project
 [Interactive Visualization](https://github.com/cabouezzi/Interactive-Weather.git)
 ## Tasks
