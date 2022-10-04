@@ -1,4 +1,4 @@
-# Data Viz Portfolio Links
+# Data Visualization Portfolio Links
 ## Final Project
 [Interactive Visualization](https://github.com/cabouezzi/Interactive-Weather.git)
 ## Tasks
